@@ -1,3 +1,4 @@
+/*
 alert ('Estudo de Variáveis');
 
 // Tipos primitivos:
@@ -132,3 +133,4 @@ console.log (ou);
 var nao = !true;
 // Inverte o valor atribuído a nao
 console.log (nao);
+*/
