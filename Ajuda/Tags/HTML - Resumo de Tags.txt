@@ -81,6 +81,3 @@
 <select> -> lista suspensa (drop - down) / não nula
 
 <option value = "valor"> Texto -> cada item da lista suspensa / não nula
-
-
-
