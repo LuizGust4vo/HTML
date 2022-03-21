@@ -1,1 +1,0 @@
-alert ('O Código está Funcionando Perfeitamente!');
